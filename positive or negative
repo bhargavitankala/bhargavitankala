@@ -1,0 +1,17 @@
+#include <stdio.h>
+int main() {
+    int n=6;
+    if(n>0)
+    {
+   printf("The given number is positive");
+   
+    }
+    else
+   {
+       printf("The given num is negative");
+       
+   
+   } 
+
+    return 0;
+}
